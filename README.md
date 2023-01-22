@@ -1,5 +1,4 @@
-# PHP
-# CRUD with authentication system
+# PHP CRUD with authentication system
 dbname = todos
 
 table = tasks(id,name,created_at) and  users(id,email,username,mypassword,created_at)
