@@ -3,6 +3,8 @@ dbname = todos
 
 table = tasks(id,name,created_at) and  users(id,email,username,mypassword,created_at)
 
+contact me : manahanlubis01@gmail.com
+
 
 # first must have account to access if not you cannot access the main page
 ![image](https://user-images.githubusercontent.com/72923118/213910952-2240bb2d-bca4-4b49-b197-4c72066c11d5.png)
